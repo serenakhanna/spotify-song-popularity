@@ -1,0 +1,1 @@
+This folder contains the bash script used to interface with the Spotify API to get the dataset. It depends on the command line tools curl, jq, and sed. With these installed, run from the bash shell with ./script.sh 

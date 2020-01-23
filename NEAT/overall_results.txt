@@ -1,0 +1,56 @@
+Spotify-NEAT Results
+rock
+Fittest Individual: 3 , Fitness: 8.215235e+01
+Confusion:
+   65    38
+   40    57
+Recall:
+-Success: 6.190476e-01 
+-Failure: 6.000000e-01 
+Precision:
+-Success: 6.310680e-01 
+-Failure: 5.876289e-01
+pop
+Fittest Individual: 44 , Fitness: 1.142956e+02
+Confusion:
+    0   113
+    1    86
+Recall:
+-Success: 0 
+-Failure: 4.321608e-01 
+Precision:
+-Success: 0 
+-Failure: 9.885057e-01
+country
+Fittest Individual: 1 , Fitness: 8.617079e+01
+Confusion:
+   22    76
+   10    92
+Recall:
+-Success: 6.875000e-01 
+-Failure: 5.476190e-01 
+Precision:
+-Success: 2.244898e-01 
+-Failure: 9.019608e-01
+electronic
+Fittest Individual: 1 , Fitness: 9.200001e+01
+Confusion:
+   66    36
+   56    41
+Recall:
+-Success: 5.409836e-01 
+-Failure: 5.324675e-01 
+Precision:
+-Success: 6.470588e-01 
+-Failure: 4.226804e-01
+indie
+Fittest Individual: 10 , Fitness: 7.481158e+01
+Confusion:
+   23    65
+    9   102
+Recall:
+-Success: 7.187500e-01 
+-Failure: 6.107784e-01 
+Precision:
+-Success: 2.613636e-01 
+-Failure: 9.189189e-01
