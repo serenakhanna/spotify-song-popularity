@@ -1,0 +1,2 @@
+# spotify-song-popularity
+Collaborated with four people to build multiple artificial neural networks using Python, with the aim of building a model that is capable of determining the probability of a new song’s success, thus maximizing its potential to top the charts. Extracted song feature data from Spotify’s API, and used it to train four different neural networks: Growing Feed-Forward Network, NeuroEvolution of Augmenting Topologies, Probalistic Neural Network, and the Extreme Learning Machine. 
